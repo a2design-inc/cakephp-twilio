@@ -1,0 +1,19 @@
+{
+    "name": "a2design-inc/cakephp-twilio",
+    "description": "Twilio CakePHP plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A2 Design",
+            "homepage": "https://github.com/a2design-inc",
+            "role": "Author"
+        },
+        {
+            "name": "Vladislav Bezverkhiy",
+            "email": "bezverhiy@a2design.biz"
+        }
+    ],
+    "require": {
+        "twilio/sdk": "~4.0"
+    }
+}
