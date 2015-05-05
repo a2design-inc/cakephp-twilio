@@ -13,7 +13,7 @@
             "email": "bezverhiy@a2design.biz"
         }
     ],
-
+    "type": "cakephp-plugin",
     "require": {
         "twilio/sdk": "~4.0",
         "composer/installers": "*"
